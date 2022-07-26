@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Shivansh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivansh-Mittal&theme=Javascript&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh-Mittal&show_icons=true&theme=Javascript)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-Mittal)
