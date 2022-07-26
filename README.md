@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh-Mittal&show_icons=true&theme=Javascript)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-Mittal)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-Mittal&color=ff69b4&style=plastic&label=PROFILE+VIEWS)
