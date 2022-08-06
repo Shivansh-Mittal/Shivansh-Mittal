@@ -1,4 +1,4 @@
-## Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Shivansh%20Mittal%20&fontAlignY=40&color=gradient)
 
 <!--
 **Shivansh-Mittal/Shivansh-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
