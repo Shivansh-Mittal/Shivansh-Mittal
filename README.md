@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM me
 - 😄 Pronouns: he/him/his
 
+## 📈 GitHub Stats
+
 <div align="center">
 
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh-Mittal&show_icons=true&theme=nightowl)
@@ -36,6 +38,7 @@ Here are some ideas to get you started:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <!-- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
 
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
@@ -60,14 +63,18 @@ Here are some ideas to get you started:
 ![Angular](<https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-## Connect with Me 
+## 🌐 Connect with Me 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][1] 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2] 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][3] 
-[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)][4]
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=HackerRank&logoColor=white)][3] 
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshivanshmittal&logo=leetcode&logoColor=yellow)][4] 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][5] 
+[![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)][6]
 
 [1]: https://twitter.com/M_Shivansh_20
 [2]: https://www.linkedin.com/in/shivansh-mittal-2ab3b41a5/
-[3]: https://www.instagram.com/the_shivansh_mittal/
-[4]: https://telegram.me/the_Shivansh_Mittal
+[3]: https://www.hackerrank.com/shivanshmittal34
+[4]: https://leetcode.com/shivanshmittal/
+[5]: https://www.instagram.com/the_shivansh_mittal/
+[6]: https://telegram.me/the_Shivansh_Mittal
