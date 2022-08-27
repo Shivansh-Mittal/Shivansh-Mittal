@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align="center">
+
 ## 🚀 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,3 +81,6 @@ Here are some ideas to get you started:
 [4]: https://leetcode.com/shivanshmittal/
 [5]: https://www.instagram.com/the_shivansh_mittal/
 [6]: https://telegram.me/the_Shivansh_Mittal
+  
+
+</div>
