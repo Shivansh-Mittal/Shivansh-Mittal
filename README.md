@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with diving deep into DevOps
 - 💬 Ask me about anything which is from my field 
 - 📫 How to reach me: DM me
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 
 ## 📈 GitHub Stats
 
