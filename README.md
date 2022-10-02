@@ -6,12 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Full Stack WebDev
-- 🌱 I’m currently pursuing internship at a Startup 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with diving deep into DevOps
-- 💬 Ask me about anything which is from my field 
-- 📫 How to reach me: DM me
+- 🔭 I’m currently working on Web Development
+- 👯 I’m looking to collaborate on JS projects for web dev
+- 🤔 I’m looking for help with diving deep into Full Stack Dev
+- 💬 Ask me about anything which concerns me
+- 📫 How to reach me: DM me on any platform (Highly active on most of them)
 - 😄 Pronouns: he/him
 
 ## 📈 GitHub Stats
