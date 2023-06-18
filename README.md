@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [2]: https://www.linkedin.com/in/shivansh-mittal-2ab3b41a5/
 [3]: https://www.hackerrank.com/shivanshmittal34
 [4]: https://leetcode.com/shivanshmittal/
-[5]: https://www.instagram.com/the_shivansh_mittal/
+[5]: https://www.instagram.com/the_shivansh_mittal_/
 [6]: https://telegram.me/the_Shivansh_Mittal
   
 
