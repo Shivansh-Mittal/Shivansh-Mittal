@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Development
-- 👯 I’m looking to collaborate on JS projects for web dev
-- 🤔 I’m looking for help with diving deep into Full Stack Dev
-- 💬 Ask me about anything which concerns me
+- 🔭 I’m currently working as Software Engineer
+- 👯 I’m looking to collaborate on Python projects
+- 🤔 I’m looking for help with diving deep into Data Science and Machine Learning
+- 💬 Ask me about anything which is related to Data Scraping
 - 📫 How to reach me: DM me on any platform (Highly active on most of them)
 - 😄 Pronouns: he/him
 
