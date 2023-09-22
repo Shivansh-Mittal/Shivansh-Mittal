@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-Mittal&color=c792ea&style=plastic&label=PROFILE+VIEWS)
-<!--
+
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivansh-Mittal&show_icons=true&theme=nightowl)
--->
+
 ![Shivansh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivansh-Mittal&theme=nightowl&date_format=j%20M%5B%20Y%5D)
 
 ![Top Languages](https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=Shivansh-Mittal&layout=compact&theme=cobalt&langs_count=10)
