@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM me on any platform (Highly active on most of them)
 - 😄 Pronouns: he/him
 
+[![An image of @shivansh_mittal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh_mittal)](https://holopin.io/@shivansh_mittal)
+
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivansh-Mittal&color=c792ea&style=plastic&label=PROFILE+VIEWS)
