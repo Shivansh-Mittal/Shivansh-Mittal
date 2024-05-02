@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 🕵️‍♂️ Specialization
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](<https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
