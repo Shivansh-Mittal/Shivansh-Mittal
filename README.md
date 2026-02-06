@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as Software Engineer
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with diving deep into Data Engineering
-- 💬 Ask me about anything which is related to Data
+- 🔭 I’m currently working as Data Engineer
+- 👯 I’m looking to collaborate on interesting ideas
+- 🤔 I’m looking for help with diving deep into Data world
+- 💬 Ask me about anything which is related to you know what
 - 📫 How to reach me: DM me on any platform (Highly active on most of them)
 
 [![An image of @shivansh_mittal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivansh_mittal)](https://holopin.io/@shivansh_mittal)
